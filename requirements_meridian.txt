@@ -1,0 +1,30 @@
+# Google Meridian MMM Dependencies
+# Project Book-Worm
+# 
+# IMPORTANT: Python 3.11 or 3.12 is REQUIRED
+# GPU (T4 or better) is HIGHLY RECOMMENDED
+
+# Core Meridian Framework
+# For GPU users (Linux only):
+# pip install google-meridian[and-cuda]
+# For CPU users:
+google-meridian>=1.5.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Bayesian Inference (installed with Meridian)
+tensorflow>=2.15.0
+tensorflow-probability>=0.23.0
+
+# Analysis & Reporting
+arviz>=0.15.0
+
+# Utilities
+tqdm>=4.65.0
