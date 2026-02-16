@@ -75,7 +75,10 @@ N_KEEP = 2000
 | `optimization_summary.html` | Budget optimization recommendations |
 | `executive_summary.txt` | Text summary report |
 
-## 🔬 Key Meridian Concepts
+## 📊 Results
+
+### Grapical View
+![Result](outputs/results.png)
 
 ### ROI Calibration
 
