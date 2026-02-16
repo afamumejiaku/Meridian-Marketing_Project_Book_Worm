@@ -1,0 +1,34 @@
+
+================================================================================
+            MARKETING MIX MODEL - GOOGLE MERIDIAN
+                     Project Book-Worm
+                   BY Afamefuna Umejiaku
+            Generated: 2026-02-16 09:16:35
+================================================================================
+
+OVERVIEW
+• Period: 2022-01-01 to 2024-12-28
+• Weeks: 157
+• Total Spend: $9,792,675
+• Average ROI: 0.2184
+
+CHANNEL PERFORMANCE (Ranked by ROI)
+
+1. Influencers: ROI=0.9046±0.3757, CPA=$1.11
+2. YouTube: ROI=0.2215±0.0912, CPA=$4.51
+3. Google_Generic_Search: ROI=0.1213±0.0531, CPA=$8.24
+4. Meta: ROI=0.0722±0.0258, CPA=$13.86
+5. Google_Brand_Search: ROI=0.0712±0.0221, CPA=$14.04
+6. TV: ROI=0.0693±0.0121, CPA=$14.42
+7. Google_Display: ROI=0.0683±0.0243, CPA=$14.63
+
+RECOMMENDATIONS
+🟢 Influencers: INCREASE
+🟡 YouTube: MAINTAIN
+🔴 Google_Generic_Search: DECREASE
+🔴 Meta: DECREASE
+🔴 Google_Brand_Search: DECREASE
+🔴 TV: DECREASE
+🔴 Google_Display: DECREASE
+
+================================================================================
