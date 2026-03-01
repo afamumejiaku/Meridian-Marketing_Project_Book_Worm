@@ -7,6 +7,12 @@ A Bayesian Marketing Mix Modeling (MMM) implementation using [Google Meridian](h
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![GPU](https://img.shields.io/badge/GPU-Recommended-green.svg)
 
+## Overview
+This repository contains a comprehensive data exploration analysis for the Book-Worm Dataset. The analysis examines 3 years of weekly marketing data across 7 media channels to assess data readiness and uncover key insights.
+
+## Data Exploration
+The Full Data Exploration can be viewed at https://github.com/afamumejiaku/Book-Worm-Data-Exploration
+
 ## 🌟 Why Meridian?
 
 Google Meridian is the successor to LightweightMMM, offering:
